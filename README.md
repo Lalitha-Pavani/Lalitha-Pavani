@@ -1,6 +1,6 @@
 - 👋 Hello Folks!!, I’m @Lalitha-Pavani (She/Her)
 - 👀 I’m a polymath and tech enthusiast.
-- 🌱 I’m currently learning Application development.
+- 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on good open source projects.
 - 📫 How to reach me 
 - LinkedIn: www.linkedin.com/in/lalitha-pavani-banda
